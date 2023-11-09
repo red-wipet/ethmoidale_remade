@@ -1,0 +1,6 @@
+﻿  ethmoidale_remade.cpp
+C:\Users\MrSuperBuddy\source\repos\ethmoidale_remade\ethmoidale_remade\ethmoidale_remade.cpp(200,24): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ethmoidale_remade\ethmoidale_remade\ethmoidale_remade.cpp(200,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\MrSuperBuddy\source\repos\ethmoidale_remade\ethmoidale_remade\ethmoidale_remade.cpp(206,25): warning C4129: N: неизвестная escape-последовательность
+  LINK : не найден или не выполнена сборка C:\Users\MrSuperBuddy\source\repos\ethmoidale_remade\Debug\ethmoidale_remade.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ethmoidale_remade.vcxproj -> C:\Users\MrSuperBuddy\source\repos\ethmoidale_remade\Debug\ethmoidale_remade.exe
